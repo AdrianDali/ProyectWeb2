@@ -1,0 +1,16 @@
+.navegacion {
+  background-color: #02424e;
+}
+
+header .nav a {
+  font-family: 'Staatliches', cursive;
+  font-size: 2rem;
+  color: white;
+}
+
+.lista-iconos {
+  background-color: rgb(245, 245, 245);
+}
+.lista-iconos img {
+  height: 100px;
+}
