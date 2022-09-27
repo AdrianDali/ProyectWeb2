@@ -1,4 +1,4 @@
-import express from "express";
+import express from 'express'
 import rutas from './routes/index.js';
 import db from './config/db.js';
 

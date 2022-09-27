@@ -1,10 +1,12 @@
-import express from 'express'
+//const express = require('express');
+import express from 'express';
 import {
   paginaComentarios,
   paginaCreadores,
   paginaInicio,
   paginaMaterias,
-} from '../controller/paginasControlador'
+} from '../controller/paginasControlador.js';
+
 
 const rutas = express.Router()
 

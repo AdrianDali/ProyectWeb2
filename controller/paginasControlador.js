@@ -1,4 +1,4 @@
-import { Materias } from '../models/Materias'
+import { Materias } from  '../models/Materias.js';
 
 const paginaInicio = (req, res) => {
   res.render('inicio', {
